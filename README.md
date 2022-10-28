@@ -1,3 +1,3 @@
 # Hr-and-recruiment-dashboard
-Here, i designed a dashboard using tableau which tells us about hr recruiment hong kong based jobs on data science and ui/ux
-we can also see those statistical summaries and graphical visuals
+Here, i designed a dashboard using tableau which tells us about hr recruiment on data science and ui/ux jobs in hong kong
+we can also see data science and ui/ux statistical summaries and graphical visuals
